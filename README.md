@@ -1,12 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Esther Sheebaa</h1>
+<h1 align="center">Hi there 🚀, I'm Esther Sheebaa</h1>
 <h3 align="center">✨ Software Developer | 🌐 Full Stack Enthusiast | 💡 AI/ML Explorer</h3>
 
 
 
-
-
 ### 🌸 About Me
-- 🎓 Final year CSE student (AI/ML) — graduating Jan 2026  
+- 🎓 Final year CSE student (AI/ML) — graduating 2026  
 - 🛠️ Currently learning: System Design, FastAPI, Advanced SQL  
 - 🌐 Building full-stack apps with React + Node + MongoDB  
 - 👩‍💻 ML Internships @ **Ridy** & **Combo Square**  
